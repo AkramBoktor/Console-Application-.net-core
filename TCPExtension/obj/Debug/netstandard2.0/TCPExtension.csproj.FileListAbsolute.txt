@@ -1,0 +1,9 @@
+C:\Users\Akram\Desktop\courses\1\linq\Videos LinQ\TCPExtension\bin\Debug\netstandard2.0\TCPExtension.deps.json
+C:\Users\Akram\Desktop\courses\1\linq\Videos LinQ\TCPExtension\bin\Debug\netstandard2.0\TCPExtension.dll
+C:\Users\Akram\Desktop\courses\1\linq\Videos LinQ\TCPExtension\bin\Debug\netstandard2.0\TCPExtension.pdb
+C:\Users\Akram\Desktop\courses\1\linq\Videos LinQ\TCPExtension\obj\Debug\netstandard2.0\TCPExtension.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\courses\1\linq\Videos LinQ\TCPExtension\obj\Debug\netstandard2.0\TCPExtension.AssemblyInfoInputs.cache
+C:\Users\Akram\Desktop\courses\1\linq\Videos LinQ\TCPExtension\obj\Debug\netstandard2.0\TCPExtension.AssemblyInfo.cs
+C:\Users\Akram\Desktop\courses\1\linq\Videos LinQ\TCPExtension\obj\Debug\netstandard2.0\TCPExtension.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\courses\1\linq\Videos LinQ\TCPExtension\obj\Debug\netstandard2.0\TCPExtension.dll
+C:\Users\Akram\Desktop\courses\1\linq\Videos LinQ\TCPExtension\obj\Debug\netstandard2.0\TCPExtension.pdb
